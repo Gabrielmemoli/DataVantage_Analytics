@@ -23,6 +23,7 @@ nav {
     overflow: hidden;
     transition: width 0.2s linear;
     box-shadow: 0 20px 35px #065a8d;
+    z-index: 9999
 }
 
 .logo {
