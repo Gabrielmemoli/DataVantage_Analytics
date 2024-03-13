@@ -1,4 +1,4 @@
-<img src="https://github.com/Gabrielmemoli/DataVantage-Analytics/assets/logo_sem_fundo.png" width="300" /> 
+<img src="assets/logo_sem_fundo.png" width="300" /> 
 
 # **Datavantages Analytics**
 
