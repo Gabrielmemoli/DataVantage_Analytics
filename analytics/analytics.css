@@ -1,0 +1,12 @@
+.power-bi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.power-bi h1 {
+    margin-bottom: 30px;
+    font-family: "Black Ops One", system-ui;
+    color: #065a8d;
+}
