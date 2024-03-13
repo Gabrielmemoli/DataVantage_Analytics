@@ -1,4 +1,4 @@
-<img src="https://github.com/Gabrielmemoli/Loja-Sneakers/blob/main/assets/imagens/logo_sem_fundo.png" width="300" /> 
+<img src="https://github.com/Gabrielmemoli/DataVantages-Analytics/assets/logo_sem_fundo.png" width="300" /> 
 
 # **Datavantages Analytics**
 
