@@ -1,4 +1,4 @@
-<img src="assets/logo_pequeno.png" width="400" /> 
+<img src="assets/logo.png" width="400" /> 
 
 # **Datavantages Analytics**
 
